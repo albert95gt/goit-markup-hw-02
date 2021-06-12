@@ -1,0 +1,27 @@
+/* цвет заголовок color: #212121; */
+/* цвет текстов color: #757575; */
+/* вторичный цвет текста color: #FFFFFF; */
+/* акцент color: #2196F3; */
+/* основной background: #FFFFFF; */
+/*вторычный background: #F5F4FA; */
+body {
+  color: #212121;
+  background: #ffffff;
+}
+ul {
+  list-style: none;
+}
+/* Style logo */
+.logo {
+  color: #000000;
+}
+.logo-text {
+  color: #2196f3;
+}
+/* Site nav */
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: #2196f3;
+}
+/* Hero */
+/* Section */
