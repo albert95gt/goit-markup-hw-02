@@ -11,6 +11,7 @@
 body {
  background-color: var(--background-color);
  color: var(--primary-text-colour);
+ font-family: Roboto;
 }
 ul {
   list-style: none;
@@ -19,14 +20,21 @@ ul {
 .logo {
   color: var(--title-text-colour)
 }
-.logo-text {
+.logo-accent {
   color: var(--accent-colour);
 }
 /* Site nav */
-.site-nav .link:hover,
-.site-nav .link:focus {
+
+.list-link:hover,
+.list-link:focus {
   color: var(--accent-colour);
   
 }
+.kontakt-list {
+  color: var(--secondary-text-colour);
+}
 /* Hero */
 /* Section */
+.desc {
+  color: var(--secondary-text-colour);
+}
