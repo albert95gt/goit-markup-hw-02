@@ -13,28 +13,11 @@ body {
  color: var(--primary-text-colour);
  font-family: Roboto;
 }
-ul {
-  list-style: none;
-}
-/* Style logo */
-.logo {
-  color: var(--title-text-colour)
-}
-.logo-accent {
-  color: var(--accent-colour);
-}
-/* Site nav */
+/* ========= Header ========= */
 
-.list-link:hover,
-.list-link:focus {
-  color: var(--accent-colour);
-  
-}
-.kontakt-list {
-  color: var(--secondary-text-colour);
-}
-/* Hero */
-/* Section */
-.desc {
-  color: var(--secondary-text-colour);
-}
+/* ========= End Header ========= */
+/* ========= Hero ========= */
+/* ========= End Hero ========= */
+/* ========= Footer ========= */
+/* ========= End Footer ========= */
+
